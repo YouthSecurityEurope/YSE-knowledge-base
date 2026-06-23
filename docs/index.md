@@ -9,7 +9,6 @@ Welcome to the internal knowledge base of **Youth Security Europe (YSE)**. This 
 | [Phishing Awareness](security/phishing-awareness.md) | How to recognize and respond to phishing emails in Gmail |
 | [Vishing & Social Engineering](security/vishing-social-engineering.md) | Recognizing and handling voice phishing, AI voice cloning, and manipulation attacks |
 | [Incident Reporting](security/incident-reporting.md) | What counts as a security incident and how to report it to the IT team |
-| [Data Classification Labels](security/data-classification-labels.md) | How to classify and handle Public, Internal, and Confidential data in Google Workspace |
 
 ## Microsoft 365
 

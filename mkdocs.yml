@@ -24,7 +24,7 @@ nav:
     - Phishing Awareness: security/phishing-awareness.md
     - Vishing & Social Engineering: security/vishing-social-engineering.md
     - Incident Reporting: security/incident-reporting.md
-    - Data Classification Labels: security/data-classification-labels.md
+    # - Data Classification Labels: security/data-classification-labels.md
   - Microsoft 365:
     - Logging In to Teams: microsoft-365/teams-login.md
     - Getting Started with Teams: microsoft-365/teams-guide.md
