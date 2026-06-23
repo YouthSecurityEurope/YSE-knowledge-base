@@ -1,0 +1,46 @@
+site_name: YSE Knowledge Base
+site_description: Internal knowledge base for Youth Security Europe staff
+
+theme:
+  name: material
+  logo: assets/images/yse-logo.png
+  favicon: assets/images/yse-logo.png
+  palette:
+    scheme: yse
+    primary: custom
+    accent: custom
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+extra_css:
+  - stylesheets/yse-brand.css
+
+nav:
+  - Home: index.md
+  - Security:
+    - Phishing Awareness: security/phishing-awareness.md
+    - Vishing & Social Engineering: security/vishing-social-engineering.md
+    - Incident Reporting: security/incident-reporting.md
+    - Data Classification Labels: security/data-classification-labels.md
+  - Microsoft 365:
+    - Logging In to Teams: microsoft-365/teams-login.md
+    - Getting Started with Teams: microsoft-365/teams-guide.md
+    - Managing Teams and Channels: microsoft-365/teams-manage-teams-channels.md
+    - Your Microsoft 365 Licence: microsoft-365/microsoft-365-overview.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - attr_list
+  - md_in_html
