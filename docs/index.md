@@ -19,6 +19,13 @@ Welcome to the internal knowledge base of **Youth Security Europe (YSE)**. This 
 | [Managing Teams and Channels](microsoft-365/teams-manage-teams-channels.md) | How department directors manage membership, channels, and permissions |
 | [Your Microsoft 365 Licence](microsoft-365/microsoft-365-overview.md) | Overview of all apps included in your YSE Microsoft 365 licence |
 
+## Google Workspace
+
+| Guide | Description |
+|---|---|
+| [Chrome Profiles](google-workspace/chrome-profiles.md) | Set up browser profiles to keep your personal and YSE work accounts separate |
+| [Automatic Meeting Minutes](google-workspace/automatic-minutes.md) | Use Google Apps Script to auto-fill meeting minutes from a Teams transcript |
+
 ---
 
 *For questions or to report an issue with this knowledge base, contact the IT admin ([support@youthsecurity.org](mailto:support@youthsecurity.org)).*

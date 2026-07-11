@@ -30,6 +30,9 @@ nav:
     - Getting Started with Teams: microsoft-365/teams-guide.md
     - Managing Teams and Channels: microsoft-365/teams-manage-teams-channels.md
     - Your Microsoft 365 Licence: microsoft-365/microsoft-365-overview.md
+  - Google Workspace:
+    - Chrome Profiles: google-workspace/chrome-profiles.md
+    - Automatic Meeting Minutes: google-workspace/automatic-minutes.md
 
 plugins:
   - search
