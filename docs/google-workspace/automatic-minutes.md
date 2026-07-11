@@ -5,6 +5,11 @@
 
 ---
 
+!!! warning "Beta Version Disclaimer"
+    This automation tool is currently in **beta**. Please do not rely exclusively on the automatically generated meeting minutes. Always review and verify the output for accuracy and completeness before final distribution. If you encounter any bugs or have feedback, please submit them to the IT admin at **support@youthsecurity.org**.
+
+---
+
 This guide explains how to use the YSE Google Apps Script to automatically generate and fill in meeting minutes starting from an MS Teams meeting transcription.
 
 ---
